@@ -1,0 +1,61 @@
+{
+    "freelancers": [
+        {
+            "name": "Rahul",
+            "email": "rahul@gmail.com",
+            "password": "rahul@123",
+            "profession": "Student",
+            "skills": [
+                "html",
+                "css",
+                "js"
+            ],
+            "hourly_rate": "1000",
+            "profile_picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29ufGVufDB8fDB8fHww&w=1000&q=80",
+            "isBooked": true,
+            "id": 1
+        },
+        {
+            "name": "megha",
+            "email": "megha@gmail.com",
+            "password": "megha@123",
+            "profession": "Student",
+            "skills": [
+                "html",
+                "css",
+                "js"
+            ],
+            "hourly_rate": "200",
+            "profile_picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29ufGVufDB8fDB8fHww&w=1000&q=80",
+            "isBooked": false,
+            "id": 2
+        },
+        {
+            "name": "jiya",
+            "email": "jiya@gmail.com",
+            "password": "jiya@123",
+            "profession": "Web Developer",
+            "skills": [
+                "html",
+                "css"
+            ],
+            "hourly_rate": "100",
+            "profile_picture": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+            "isBooked": false,
+            "id": 3
+        },
+        {
+            "name": "ram",
+            "email": "ram@gmail.com",
+            "password": "ram@123",
+            "profession": "Graphic Designer",
+            "skills": [
+                "html"
+            ],
+            "hourly_rate": "200",
+            "profile_picture": "data:image/jpeg;base64,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",
+            "isBooked": false,
+            "id": 5
+        }
+    ]
+}
